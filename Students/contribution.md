@@ -267,3 +267,45 @@ The best place for learning in the field of DevOps is the official Documentation
 2. https://developer.hashicorp.com/vagrant/docs/vagrantfile
 3. https://www.youtube.com/watch?v=vBreXjkizgo 
 
+# M. Hassan Akbar
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhassanakbar/">
+    <img src="https://img.shields.io/badge/M. Hassan Akbar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+  </a>
+  <a href="https://twitter.com/aiasxr">
+    <img src="https://img.shields.io/badge/aiasxr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a><span>&nbsp;</span>
+  <a href="mailto:mhassanakbaar@gmail.com">
+    <img src="https://img.shields.io/badge/mhassanakbaar@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" >
+  </a><span>&nbsp;</span>
+  <a  href="https://medium.com/@mhassanakbaar">
+    <img src="https://img.shields.io/badge/@mhassanakbaar-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</p>
+
+# What I learned
+I have learned alot during DevOps course but few highlights were: 
+
+- How Open Source works and why is it important
+- Container Orchestration and using Container technologies like Docker and Podman
+- Deploying Containers in Cloud Microservices or Kubernetes
+- Kubernetes 
+- k3s, minikube etc
+- Kubernetes Architecture 
+- Service Mesh
+- Kyverno and Policy Engines
+- GitOps and how it is changing CI/CD pipeline
+
+# My Blogs
+I have written blogs on Podman and Buildah and you can find them down below:
+- Blog 1 Podman:https://medium.com/@mhassanakbaar/podman-a-docker-alternative-fd4d504ebf36
+- Blog 2 Buildah:https://medium.com/@mhassanakbaar/buildah-a-container-building-tool-bb8accbd7624
+
+# Learning Resources:
+I have mostly consulted Official Documentation when working and the links to those are as follows:
+- https://docs.docker.com/
+- https://docs.podman.io/en/latest/
+- https://buildah.io/
+- https://kubernetes.io/docs/home/
+- https://minikube.sigs.k8s.io/docs/start/
+- https://argo-cd.readthedocs.io/en/stable/
